@@ -13,7 +13,7 @@
 - Spring MVC
 - Spring Boot
 - Spring Security
-- Mustache
+- FreeMaker
 - MySQL
 - Hibernate
 - FlyWay
