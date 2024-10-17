@@ -1,6 +1,6 @@
 
 ## Java Spring project <hr>
-#### Проект доступен по ссылке: http://vodoproject.ru
+#### Проект доступен по ссылке: http://posttwits.vodoproject.ru
 <hr>
 
 Проект представляет собой сайт, 
